@@ -9,7 +9,7 @@ languages:
     - title: "Archive"
       url: /archive/
     - title: "fr"
-      url: /fr/
+      url: /fr
 - language: "fr"
   name: "Portail de découverte du recensement du Canada"
   url: /fr
