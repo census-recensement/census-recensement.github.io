@@ -1,0 +1,22 @@
+# enables english and french navigation for the site
+
+languages:
+- language: "en"
+  name: "Canadian Census Discovery Portal"
+  links:
+    - title: "About"
+      url: /about/
+    - title: "Archive"
+      url: /archive/
+    - title: "fr"
+      url: /fr/
+- language: "fr"
+  name: "Portail de découverte du recensement du Canada"
+  url: /fr
+  links:
+    - title: "À propos"
+      url: /a-propos/
+    - title: "Archiver"
+      url: /archiver/
+    - title: "en"
+      url: /

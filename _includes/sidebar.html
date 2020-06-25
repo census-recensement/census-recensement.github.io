@@ -1,0 +1,29 @@
+
+<div class="cover-card table-cell table-middle">
+
+  {% for item in site.data.navigation.languages %}
+  {% if item.language == page.lang %}
+    <a href="{{ item.url }}/" class="author_name">{{ item.name }}</a>
+  {% endif %}
+  {% endfor %}
+
+  <nav class="nav">
+    <ul class="nav-list">
+      {% for item in site.data.navigation.languages %}
+      {% if item.language == page.lang %}
+      {% for link in item.links %}
+      <li class="nav-item">
+        {% if link.url contains "http" %}
+        {% assign url = link.url %}
+        {% else %}
+        {% assign url = link.url | relative_url %}
+        {% endif %}
+        <a class="page-link" href="{{ url }}">{{ link.title }}</a>
+      </li>
+      {% endfor %}
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </nav>
+  {% include social-links.html %}
+</div>

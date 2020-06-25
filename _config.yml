@@ -1,0 +1,54 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title_en: Canadian Census Discovery Portal
+title_fr: Portail de découverte du recensement du Canada
+email: #
+description: #A simple and awesome blog theme powered by jekyll.
+url: http://census-recensement.github.io
+keywords: ["Canada", "census", "data", "libraries", "recensement"]
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          #Europe/Paris
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+
+lang: en
+languages: ["en", "fr"]
+permalink: /:categories/:year/:month/:day/:title/
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+social:
+  name_en: Canadian Census Discovery Portal
+  name_fr: Portail de découverte du recensement du Canada
+  avatar: leonids-logo.png
+  bio: #"A simple and awesome blog theme powered by jekyll."
+  email:
+  twitter: #username
+  google:
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  github: historic-census
+  linkedin: #username
+  instagram: #username
+  youtube: #username
