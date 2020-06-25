@@ -22,7 +22,7 @@ excerpt_separator: <!--more-->
 
 lang: en
 languages: ["en", "fr"]
-#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:categories/:year/:month/:day/:title/
 
 kramdown:
   auto_ids: true

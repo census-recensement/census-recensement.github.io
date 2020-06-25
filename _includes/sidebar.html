@@ -3,7 +3,7 @@
 
   {% for item in site.data.navigation.languages %}
   {% if item.language == page.lang %}
-    <a href="{{ item.url }}" class="author_name">{{ item.name }}</a>
+    <a href="{{ item.url }}/" class="author_name">{{ item.name }}</a>
   {% endif %}
   {% endfor %}
 
