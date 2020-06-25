@@ -1,11 +1,12 @@
 ---
 layout: page
-title:  Archive
+title:  News
 lang: en
-ref: archive
+ref: news
 ---
 
 <div class="archive">
+
   <div class="timeline" id="timeline">
     {% assign posts_by_year = site.posts | where: "lang", page.lang | group_by_exp:"post", "post.date | date: '%Y' " %}
     {% for group in posts_by_year %}
@@ -23,10 +24,3 @@ ref: archive
   </div>
 
 </div>
-
-<!--
-
-{% assign posts=site.posts | where: "lang", page.lang %} {% for post in posts %}
-... {% endfor %}
-
--->

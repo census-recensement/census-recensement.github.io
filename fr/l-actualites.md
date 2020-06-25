@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  Archiver
+title: L'actualités
 lang: fr
-ref: archive
+ref: news
 ---
 
 <div class="archive">

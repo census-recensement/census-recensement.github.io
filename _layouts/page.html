@@ -5,9 +5,11 @@ layout: default
   <div id="page">
     <header class="page-header">
       <h2>{{ page.title }}</h2>
+      {% include language-selector.html %}
     </header>
 
     <article class="page-content">
+
       {{ content }}
     </article>
 
