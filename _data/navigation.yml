@@ -3,11 +3,12 @@
 languages:
 - language: "en"
   name: "Canadian Census Discovery Portal"
+  url: /en
   links:
     - title: "About"
-      url: /about/
+      url: /en/about/
     - title: "Archive"
-      url: /archive/
+      url: /en/archive/
     - title: "fr"
       url: /fr/
 - language: "fr"
@@ -15,8 +16,8 @@ languages:
   url: /fr
   links:
     - title: "À propos"
-      url: /a-propos/
+      url: /fr/a-propos/
     - title: "Archiver"
-      url: /archiver/
+      url: /fr/archiver/
     - title: "en"
-      url: /
+      url: /en/
