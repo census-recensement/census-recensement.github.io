@@ -1,4 +1,25 @@
 /* LAYOUT CSS */
+
+.splash {
+  position: fixed;
+  text-align: center;
+  width: 100%;
+  padding: 150px 30px 30px;
+  @include media-query($small-screen) {
+    background-position: center;
+    padding: 150px;
+  }
+  @include media-query($medium-screen) {
+    height: 100vh;
+    position: initial;
+    width: 100%;
+  }
+}
+
+.splash-text {
+  font-size: 300%;
+}
+
 .cover {
   background-color: $background-color;
   position: fixed;
