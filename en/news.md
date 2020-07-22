@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  News
+title: News
 lang: en
 ref: news
 ---
