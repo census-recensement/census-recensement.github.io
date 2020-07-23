@@ -17,3 +17,5 @@ ref: inventory
 - *La liste des publications* - Chaque volume du recensement historique comporte des informations communes qui relient les tableaux ou bulletins retenus et détaillés dans l’inventaire.
 - *Auteur / Producteur* - Liste des noms des juridictions et des institutions qui étaient en charge de l’administration du recensement depuis le premier réalisé en Amérique du nord en 1665.  
 - *Types de contenus* - Liste les contenus types compris dans l’énoncé de l’inventaire. Chaque contenu type est relié à un numéro de contenu qui renvoie à une collection unique des matériels du recensement. Cet identifiant est généré automatiquement pour l’item inventorié (et est relié pour l'inventaire du même contenu dans l’autre langue). - Cette numérotation du contenu type est liée au numéro d’identification du contenu inventorié.
+
+[![Inventaire du recensement](/img/inventaire-recensements.png "Inventaire du recensement")](/img/inventaire-recensements.png "Inventaire du recensement")

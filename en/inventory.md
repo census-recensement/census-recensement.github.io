@@ -17,3 +17,5 @@ ref: inventory
 - *Publications list* - each historical census print volume with content information to link them to the individual tables/bulletins they include and which are part of our inventory.
 - *Authors / Producers* - List of names of the jurisdictions and institutions which were in charge of the administration of the Census being inventoried from the first census made in North America in 1665.
 - *Contents type* - List of content types included in the inventory scope. Each content type is linked to an item ID number, e.g.  which refers to a unique collection of census materials. This ID number is generated automatically for the item being inventoried (and is linked by the inventory volunteer to the same item in the other language).This content type call number is also linked to the census item numbers.    
+
+[![Census Inventory](/img/census-inventory.png "Census Inventory")](/img/census-inventory.png "Census Inventory")

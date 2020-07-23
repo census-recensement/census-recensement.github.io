@@ -12,7 +12,7 @@ L'inventaire sera complètement bilingue.
 
 L'inventaire sera réalisé au niveau des unités de base répertoriées, (ex : un tableau statistique : « Lieux de naissance par districts de recensement », recensement de 1901, 98-1901(F) v.1, tableau XIV), avec l'objectif plus global de créer un logiciel de recherche qui donnera un meilleur accès aux données du recensement en permettant la recherche de certaines variables spécifiques des différentes années du recensement. Ce projet implique aussi la création de notes au niveau des items sur l\'accessibilité, la lisibilité des contenus disponibles et de leur formats. En tant que partie intégrante au projet d'inventaire, le groupe de travail aura aussi la tâche de développer un document de vision pour un futur interface de recherche bilingue et unique, des matériels du recensement.
 
-Énoncé du Portail de découverte du recensement du Canada
+### Énoncé du Portail de découverte du recensement du Canada
 
 L'inventaire comporte toutefois certaines limites :
 

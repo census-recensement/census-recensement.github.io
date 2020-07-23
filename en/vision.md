@@ -13,7 +13,7 @@ The inventory will be completely bilingual.
 
 The inventory will be at the individual item level, (e.g., a statistical table: “Birthplace by Census Districts”, 1901 Census, 98-1901(F) v.1, table 14), with the intention of eventually creating a searchable census platform that will allow for greatly enhanced discovery of specific variables available across census years. The project will also involve the creation of item-level notes on accessibility and readability of contents in all available formats. As part of the inventory project, the working group will also be drafting a vision document for a future searchable, long-term bilingual Canadian census platform.
 
-#### Scope of the Canadian Census Discovery Portal
+### Scope of the Canadian Census Discovery Portal
 
 Some limitations on the scope of the project:
 
