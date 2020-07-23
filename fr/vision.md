@@ -33,7 +33,7 @@ L'inventaire comporte toutefois certaines limites :
   - Les sources de niveau secondaire qui ne sont[ pas
          nécessaires à la compréhension ou à la précision des
          recensements pourraient être incluses dans un futur projet.
-- Note
+- Note :
   - L'information publiée en tant que [matériel ou produit d'un recensement étudié est intégrée au projet, même si cette information décrit des données du recensement non-officielles (ex : collecte de données financée par la *Massachusetts Historical Society*, Nouvelle-Écosse, 1794).
   - Le projet impliquera la création de nouvelle documentation qui visera à améliorer et favoriser l'accès aux collections du recensement.
   - Des tableaux d'autorité seront produits pour clarifier le vocabulaire employé pour l'identification de certains recensements spécifiques, de volumes spécifiques et, de certaines unités géographiques répertoriées à travers le temps.
@@ -46,5 +46,7 @@ L'inventaire comporte toutefois certaines limites :
   - Exclus : les contenus purement promotionnels sont exclus pour le moment.  
 <br />
 5. **Dans l'énoncé : Pour les recensements les plus anciens (ex : Nouvelle France, ouest canadien et américain), deux possibilités doivent être considérées au regard de la couverture géographique des documents.**
-   - Inclus : si le document en question couvre plus que le territoire national actuel, alors le document sera inventorié comme publication d'un recensement historique (ex : tableaux de données agrégées fournissant des données pour la Colonie de Terre-Neuve, pour la Colonie de Québec et pour l'Île de Miquelon).
-   - Exclus : Si le document couvre seulement un territoire de la Nouvelle-France ou un autre territoire contigu (avec le Canada) qui n'est pas aujourd'hui un territoire administratif du Canada, alors ce document ne sera pas répertorié en tant que matériel d'un recensement historique (ex : Louisiane (États-Unis), St-Pierre et Miquelon (France), ou le nord du Montana (États-Unis)).
+   - Inclus :
+        - si le document en question couvre plus que le territoire national actuel, alors le document sera inventorié comme publication d'un recensement historique (ex : tableaux de données agrégées fournissant des données pour la Colonie de Terre-Neuve, pour la Colonie de Québec et pour l'Île de Miquelon).
+   - Exclus :
+        - Si le document couvre seulement un territoire de la Nouvelle-France ou un autre territoire contigu (avec le Canada) qui n'est pas aujourd'hui un territoire administratif du Canada, alors ce document ne sera pas répertorié en tant que matériel d'un recensement historique (ex : Louisiane (États-Unis), St-Pierre et Miquelon (France), ou le nord du Montana (États-Unis)).
