@@ -5,6 +5,6 @@ lang: fr
 ref: about
 ---
 
-[Vision et énoncé de travail]({% link fr/vision.md %})
+[Vision et énoncé de travail]({% link fr/a-propos/vision.md %})
 
-[Inventaire du recensement]({% link fr/inventaire.md %})
+[Inventaire du recensement]({% link fr/a-propos/inventaire.md %})
