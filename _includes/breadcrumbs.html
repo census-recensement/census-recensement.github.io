@@ -3,7 +3,11 @@
 <div id="breadcrumbs">
 {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
 
-<a href="{{ site.url }}/{{ page.lang}}">{{ page.lang }}</a>
+{% for item in site.data.navigation.languages %}
+  {% if item.language == page.lang %}
+<a href="{{ site.url }}/{{ page.lang}}">{{ item.home }}</a>
+{% endif %}
+{% endfor %}
 
 {% for crumb in crumbs offset: 2 %}
   {% if forloop.last %}
@@ -13,3 +17,10 @@
   {% endif %}
 {% endfor %}
 </div>
+
+
+<!--   {% for item in site.data.navigation.languages %}
+  {% if item.language == page.lang %}
+    &copy; {{ site.time | date: '%Y' }} {{ item.name }}
+  {% endif %}
+  {% endfor %} -->

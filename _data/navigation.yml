@@ -3,6 +3,7 @@
 languages:
 - language: "en"
   name: "Canadian Census Discovery Portal"
+  home: "home"
   url: /en
   links:
     - title: "About"
@@ -15,6 +16,7 @@ languages:
       url: /fr/
 - language: "fr"
   name: "Portail de découverte du recensement du Canada"
+  home: "accueil"
   url: /fr
   links:
     - title: "À propos"
