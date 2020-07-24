@@ -21,7 +21,9 @@
 
 .cover {
   background-color: $background-color;
-  position: fixed;
+  background: {
+           image: url("");
+           }
   text-align: center;
   width: 100%;
   min-height: 400px;
