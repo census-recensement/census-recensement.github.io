@@ -2,10 +2,11 @@
 layout: post
 title:  Mises à jour de juillet
 date: 2020-07-01
+categories: fr/l-actualite
 lang: fr
 ref: july
-categories: fr/l-actualite
 ---
+
 Le Portail de découverte du recensement du Canada a pour objectif de bâtir une plateforme de découverte bilingue et publiquement accessible des données du recensement (papier et digitales) qui remontent jusqu’aux premiers recensements réalisés au Canada. Nous avons récemment créé et lancé un site Internet (Mettre le lien quand le site sera disponible) avec plus d’informations sur le projet.  
 
 L’équipe: Le projet est conduit par le Groupe de Travail sur le recensement historique au Canada. Ce groupe est membre de la Communauté Données du Conseil des bibliothèques universitaires de l’Ontario mais a grandi cette année ! Nous avons accueilli des nouveau membres, de l’Alberta, du Québec et de la Nouvelle-Écosse (merci de voir la liste complète de nos membres au bas de cette mise à jour). Notre objectif est de faire valoir au sein de l’équipe, une représentation de l’ensemble des régions du Canada, de plusieurs communautés de l’OCUL mais aussi de nombreux autres partenaires partout au pays.  
