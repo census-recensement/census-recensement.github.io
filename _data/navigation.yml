@@ -23,7 +23,7 @@ languages:
       url: /fr/a-propos/
     - title: "Contact"
       url: /fr/contact/
-    - title: "L'actualités"
-      url: /fr/l-actualites/
+    - title: "L'actualité"
+      url: /fr/l-actualite/
     - title: "en"
       url: /en/

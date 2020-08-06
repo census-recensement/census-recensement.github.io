@@ -19,16 +19,24 @@ Nous avons besoin de tracer une vision de d’outil de recherche et rechercher d
 
 En vous remerciant et dans l’attente de vous en dire plus !
 
-Leanne Trimble leanne.trimble@utoronto.ca
-Susan Mowers smowers@uottawa.ca
+Leanne Trimble <leanne.trimble@utoronto.ca>
+
+Susan Mowers <smowers@uottawa.ca>
+
 Co-responsables, Groupe de travail du recensement historique au Canada
 
-Liste des membres:
+**Liste des membres:**
 
 Alex Guindon, Concordia University
+
 Graeme Campbell, Queen’s University
+
 Julien Doris, Université d’Ottawa - University of Ottawa
+
 Katie Cuyler, University of Alberta
+
 Leanne Trimble, University of Toronto
+
 Sandra Sawchuk, Mount Saint Vincent University
+
 Susan Mowers, Université d’Ottawa - University of Ottawa

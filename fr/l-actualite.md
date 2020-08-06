@@ -1,6 +1,6 @@
 ---
 layout: page
-title: L'actualités
+title: L'actualité
 lang: fr
 ref: news
 ---
