@@ -24,6 +24,13 @@ lang: en
 languages: ["en", "fr"]
 permalink: pretty
 
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:title
+
+
+
 kramdown:
   auto_ids: true
   footnote_nr: 1
