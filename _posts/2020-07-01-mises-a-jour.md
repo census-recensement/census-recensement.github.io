@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  Mises à jour de juillet 2020
+title:  Mises à jour de juillet
 date: 2020-07-01
 lang: fr
-ref: 2020-07-01
+ref: july
+categories: fr/l-actualite
 ---
 Le Portail de découverte du recensement du Canada a pour objectif de bâtir une plateforme de découverte bilingue et publiquement accessible des données du recensement (papier et digitales) qui remontent jusqu’aux premiers recensements réalisés au Canada. Nous avons récemment créé et lancé un site Internet (Mettre le lien quand le site sera disponible) avec plus d’informations sur le projet.  
 
