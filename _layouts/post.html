@@ -4,11 +4,13 @@ layout: default
 
 <div id="post">
 
-  {% include breadcrumbs.html %}<br><br>
-  <header class="post-header">
-    {% include language-selector.html %}
-    <h1>{% include date-selector.html %}</h1>
-</header>
+    {% include breadcrumbs.html %}
+
+    <header class="page-header">
+      {% include language-selector.html %}
+      <h2>{% include date-selector.html %}</h2>
+
+    </header>
 
   <article class="post-content">
     {{ content }}
