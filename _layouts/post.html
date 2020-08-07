@@ -3,21 +3,17 @@ layout: default
 ---
 
 <div id="post">
-  {% include breadcrumbs.html %}
-  <header class="post-header"><br><br>
-    <!--<h1 title="{{ page.title | escape }}">{{ page.title }}</h1>-->
-    {% include language-selector.html %}
-    <span class="post-meta">
-      {% include date-selector.html %}
-    </span>
 
-  </header>
+  {% include breadcrumbs.html %}<br><br>
+  <header class="post-header">
+    {% include language-selector.html %}
+    <h1>{% include date-selector.html %}</h1>
+</header>
 
   <article class="post-content">
     {{ content }}
   </article>
 </div>
-
 
 
 <!--
