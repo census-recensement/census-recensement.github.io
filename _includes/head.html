@@ -42,7 +42,7 @@
   <title>{{ title }}</title>
 
   <!-- CSS files -->
-  <link rel="stylesheet" href="{{ site.url }}/css/font-awesome.min.css">
+
 
   <link rel="stylesheet" href="{{ site.url }}/css/main.css">
 
@@ -50,8 +50,20 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | prepend: site.url }}" />
 
   <!-- Icons -->
+  <link href="{{ site.url }}/css/all.css" rel="stylesheet"> <!--load all styles -->
+
+
   <!-- 16x16 -->
   <link rel="shortcut icon" href="{{ site.url }}/favicon.ico">
   <!-- 32x32 -->
   <link rel="shortcut icon" href="{{ site.url }}/favicon.png">
+
+  <!--   Dublin Core metadata for Zotero -->
+    <meta name="DC.title" content="{{ page.title }}" />
+    <meta name="DC.creator" content="{{ page.author }}" />
+    <meta name="DC.contributor" content="{{ page.editor }}" />
+    <meta name="DC.date" content="{{ page.publication-date }}" />
+    <meta name="DC.rights" content="{{ page.rights }}" />
+    <meta name="DC.source" content="{{ site.title }}" />
+    <meta name="DC.url" content="{{site.url}}{{site.baseurl}}{{page.url}}" />
 </head>

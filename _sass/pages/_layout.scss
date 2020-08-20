@@ -77,22 +77,21 @@
 }
 .social-links {
   margin-top: 0.5em;
-  ul {
-    margin: 0;
-    padding: 0;
-    li {
-      list-style: none;
-      display: inline-block;
-      margin-left: 1em;
+  padding: 0 25px;
+  float: bottom;
+  display: inline-block;
+  *display: inline;
+  zoom: 1;
+
       a.social-link-item {
+        padding: 0.5em;
         color: $secondary;
+        font-size: 150%;
         &:hover,
         &:focus {
           color: lighten($secondary, 14%);
         }
       }
-    }
-  }
 }
 .nav-list {
   margin: 0;
@@ -111,7 +110,7 @@
     & a {
       margin-top: 1em;
       text-transform: lowercase;
-      font-size: 112%;
+      font-size: 95%;
       color: $secondary;
       &:hover,
       &:focus {

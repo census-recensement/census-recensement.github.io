@@ -6,3 +6,4 @@ categories: en/news
 lang: en
 ref: may
 ---
+This is just to show what the news page looks like with more entries.

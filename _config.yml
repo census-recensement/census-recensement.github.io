@@ -44,16 +44,16 @@ kramdown:
 social:
   name_en: Canadian Census Discovery Portal
   name_fr: Portail de découverte du recensement du Canada
-  avatar: leonids-logo.png
+  avatar: #leonids-logo.png
   bio: #"A simple and awesome blog theme powered by jekyll."
-  email:
+  email: census@scholarsportal.info
   twitter: #username
   google:
     analytics:
     verify:
     ad-client:
     ad-slot:
-  github: historic-census
+  github: census-recensement
   linkedin: #username
   instagram: #username
   youtube: #username

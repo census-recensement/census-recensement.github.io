@@ -18,28 +18,26 @@ Beginning in  July, we have started the production phase of inventorying, workin
 
 **Next steps**: While we continue work on completing the inventory, we are also now turning our attention to next steps.
 
-We need to flesh out our vision for the discovery platform and seek further funding opportunities in order to make our vision a reality. At this time, we are seeking input from stakeholders and are hoping to develop partnerships with organizations and individuals who have strong census expertise and interest. This consultation will be happening during summer & fall 2020. Please reach out to us if you or someone you know should be included in this exercise.
+We need to flesh out our vision for the discovery platform and seek further funding opportunities in order to make our vision a reality. At this time, we are seeking input from stakeholders and are hoping to develop partnerships with organizations and individuals who have strong census expertise and interest. This consultation will be happening during Summer & Fall 2020. Please reach out to us if you or someone you know should be included in this exercise.
 
 Thanks, and we look forward to talking to you more!
 
-Leanne Trimble <leanne.trimble@utoronto.ca>
-
-Susan Mowers <smowers@uottawa.ca>
-
-Co-chairs, Historical Census of Canada Working Group
+Leanne Trimble <leanne.trimble@utoronto.ca>  
+Susan Mowers <smowers@uottawa.ca>  
+*Co-chairs, Historical Census of Canada Working Group*
 
 **List of members:**
 
-Alex Guindon, Concordia University
+Alex Guindon, *Concordia University*
 
-Graeme Campbell, Queen’s University
+Graeme Campbell, *Queen’s University*
 
-Julien Doris, Université d’Ottawa - University of Ottawa
+Julien Doris, *Université d’Ottawa - University of Ottawa*
 
-Katie Cuyler, University of Alberta
+Katie Cuyler, *University of Alberta*
 
-Leanne Trimble, University of Toronto
+Leanne Trimble, *University of Toronto*
 
-Sandra Sawchuk, Mount Saint Vincent University
+Sandra Sawchuk, *Mount Saint Vincent University*
 
-Susan Mowers, Université d’Ottawa - University of Ottawa
+Susan Mowers, *Université d’Ottawa - University of Ottawa*
