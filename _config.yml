@@ -27,7 +27,7 @@ permalink: pretty
 collections:
   posts:
     output: true
-    permalink: /:categories/:title
+    permalink: /:path
 
 kramdown:
   auto_ids: true

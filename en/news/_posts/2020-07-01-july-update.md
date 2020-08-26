@@ -2,7 +2,6 @@
 layout: post
 title:  July Update
 date:  2020-07-01
-categories: en/news
 lang: en
 ref: july
 

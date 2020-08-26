@@ -2,7 +2,6 @@
 layout: post
 title:  Mises à jour de juillet
 date: 2020-07-01
-categories: fr/l-actualite
 lang: fr
 ref: july
 ---
