@@ -63,7 +63,4 @@ Markdown is really easy. Rather than listing everything here, you can check out 
 
 ### Submitting Your Edits
 
-Our repository has been set-up so that any edits need to be approved by 2 other members of the team. Don't worry, you won't be able to *accidentally* push your edits. The process for editing will be the following:
-
-  1. navigate to the file you want to edit (or create a whole new file)
-  2.  
+Our repository has been set-up so that any edits need to be approved by 2 other members of the team. Don't worry, you won't be able to *accidentally* push your edits. The process for editing will be the following: (tbd)
