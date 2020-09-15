@@ -5,7 +5,11 @@ lang: en
 ref: inventory
 ---
 
-**The following tables are included with the inventory:**
+The inventory is the backbone of the Canadian Census Discovery Portal. Compiling the inventory is a huge undertaking and a significant aspect of this project. We are always seeking participants interested in contributing to the inventory - please [get in touch](https://census-recensement.github.io/en/contact/) if you would like to be involved. 
+
+### Inventory database
+
+The following tables are included with the inventory:
 
 1. **Census items** - the main inventory table. The different census content types are tracked through a field called “Contents type” which contains the name of each of the original tables.  
 <br />
