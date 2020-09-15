@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Phase 3: Improving Access and Usability
+title: Phase 3 - Improving Access and Usability
 lang: en
 ref: access
 ---
