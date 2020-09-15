@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Census Inventory
+title: Phase 1: Census Inventory
 lang: en
 ref: inventory
 ---
