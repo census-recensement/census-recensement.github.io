@@ -16,7 +16,7 @@ ref: news
 
 <ul>
 {% for post in group.items %}
-<li><div style="width:90px;float:left;">
+<li><div style="width:100%;float:left;">
 
 {% assign months = "Janvier|Février|Mars|Avril|Mai|Juin|Juillet|Août|Septembre|Octobre|Novembre|Décembre" | split: "|" %}
 {% assign m = post.date | date: "%-m" | minus: 1 %}

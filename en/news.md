@@ -16,7 +16,7 @@ ref: news
 
       <ul>
       {% for post in group.items %}
-        <li><div style="width:60px;float:left;">{{ post.date | date: "%B" }}</div> <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+        <li><div style="width:100%;float:left;">{{ post.date | date: "%B" }}</div> <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
       {% endfor %}
       </ul>
 
