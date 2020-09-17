@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Project update: May 2019
-date:  2019-05-01
+title:  Project update - September 2019
+date:  2019-09-01
 lang: en
-ref: may
+ref: sept2019
 ---
 
 As some of you may be aware, OCUL’s Historical Census Working Group (part of the OCUL Data Community) is working on scoping a comprehensive bilingual inventory of Canadian census data. Our dream is to eventually build a bilingual and openly available discovery platform for census data & statistical tables (print & digital) going back to the earliest Canadian censuses. 
