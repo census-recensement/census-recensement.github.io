@@ -2,7 +2,7 @@
 
 languages:
 - language: "en"
-  name: "Canadian Census Discovery Portal"
+  name: "Canadian Census Discovery Partnership"
   home: "home"
   url: /en
   links:
@@ -15,7 +15,7 @@ languages:
     - title: "fr"
       url: /fr/
 - language: "fr"
-  name: "Portail de découverte du recensement du Canada"
+  name: "Partenariat de découverte du recensement du Canada"
   home: "accueil"
   url: /fr
   links:
