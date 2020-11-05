@@ -55,8 +55,15 @@
   .author_name {
     display: block;
     color: #20332A;
-    font-size: 1.75em;
+    font-size: 1.5em;
   }
+
+  .author_name_alt {
+    display: block;
+    color: #20332A;
+    font-size: 1em;
+  }
+
   .author_job {
     display: block;
     color: $secondary;

@@ -1,0 +1,50 @@
+
+<div class="cover-card table-cell table-middle">
+
+
+
+<a href="{{ site.url }}/en" class="author_name_alt">{{ site.title_en }}</a>
+
+  <nav class="nav">
+    <ul class="nav-list">
+      {% for item in site.data.navigation.languages %}
+      {% if item.language contains "en" %}
+      {% for link in item.links %}
+      <li class="nav-item">
+        {% if link.url contains "http" %}
+        {% assign url = link.url %}
+        {% else %}
+        {% assign url = link.url | relative_url %}
+        {% endif %}
+        <a class="page-link" href="{{ url }}">{{ link.title }}</a>
+      </li>
+      {% endfor %}
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </nav>
+<br>
+<hr>
+<br>
+  <a href="{{ site.url }}/fr" class="author_name_alt">{{ site.title_fr }}</a>
+  <nav class="nav">
+    <ul class="nav-list">
+      {% for item in site.data.navigation.languages %}
+      {% if item.language contains "fr" %}
+      {% for link in item.links %}
+      <li class="nav-item">
+        {% if link.url contains "http" %}
+        {% assign url = link.url %}
+        {% else %}
+        {% assign url = link.url | relative_url %}
+        {% endif %}
+        <a class="page-link" href="{{ url }}">{{ link.title }}</a>
+      </li>
+      {% endfor %}
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </nav>
+
+
+</div>

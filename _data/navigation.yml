@@ -12,8 +12,8 @@ languages:
       url: /en/contact/
     - title: "News"
       url: /en/news/
-    - title: "fr"
-      url: /fr/
+  #  - title: "fr"
+  #    url: /fr/
 - language: "fr"
   name: "Partenariat de découverte du recensement du Canada"
   home: "accueil"
@@ -25,5 +25,5 @@ languages:
       url: /fr/contact/
     - title: "L'actualité"
       url: /fr/l-actualite/
-    - title: "en"
-      url: /en/
+  #  - title: "en"
+  #    url: /en/
