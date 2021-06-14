@@ -5,15 +5,15 @@ lang: en
 ref: contacts
 ---
 
-We welcome your questions, advice, and participation! Get in touch with us at census@scholarsportal.info. 
+We welcome your questions, advice, and participation! Get in touch with us at census@scholarsportal.info.
 
 Project working group members
 
--	Graeme Campbell, Queen’s University – on leave
+-	Graeme Campbell, Queen’s University
 -	Katie Cuyler, University of Alberta
 -	Julien Doris, University of Ottawa
 -	Alex Guindon, Concordia University
--	Amber Leahey, Scholars Portal (Ontario Council of University Libraries) – on leave
+-	Amber Leahey, Scholars Portal (Ontario Council of University Libraries)
 -	(Co-chair) Susan Mowers, University of Ottawa
 -	Sandra Sawchuk, Mount Saint Vincent University
 -	(Co-chair) Leanne Trimble, University of Toronto
