@@ -5,7 +5,7 @@ lang: en
 ref: contacts
 ---
 
-We welcome your questions, advice, and participation! Get in touch with us at census@scholarsportal.info.
+We welcome your questions, advice, and participation! Get in touch with us at [census@scholarsportal.info](mailto:{{ site.social.email }})
 
 ### Principal Investigator:
 

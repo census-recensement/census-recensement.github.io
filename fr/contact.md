@@ -4,6 +4,8 @@ title:  Notre équipe
 lang: fr
 ref: contacts
 ---
+Questions ? Envoyez-nous un courriel : [census@scholarsportal.info](mailto:{{ site.social.email }})
+
 ### Chercheuse principale :
 
 **Leanne Trimble**  
