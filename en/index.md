@@ -1,6 +1,6 @@
 ---
 layout: home
-title: The Canadian Census Discovery Partnership
+title: The Canadian Census Data Discovery Partnership
 lang: en
 ref: index
 ---
@@ -8,7 +8,7 @@ Censuses, or population counts, have been conducted in the territory now known a
 
 The sources of information that make up the censuses are rich, diverse, and complex. They consist of archival records, publications, and data files, containing a mix of primary data, expert analyses, and supporting documentation. This project is focused on those sources that contain data, and documentation that supports the use of the data.
 
-The Canadian Census Discovery Partnership will work towards the following objectives over a two-year period:
+The Canadian Census Data Discovery Partnership will work towards the following objectives over a two-year period:
 1. Complete a comprehensive, bilingual census inventory.
 2. Complete a user needs study, which will gather input from stakeholders (both within and beyond the formal partnership) about the functional requirements for a census discovery portal, the design of the inventory metadata model and taxonomies, and opportunities for the future.
 3. Design and develop a proof of concept for a Canadian census discovery portal.

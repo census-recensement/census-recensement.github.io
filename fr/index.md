@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Partenariat de découverte du recensement du Canada
+title: Partenariat de découverte des données du recensement du Canada
 lang: fr
 ref: index
 ---

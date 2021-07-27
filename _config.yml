@@ -3,8 +3,8 @@
 # Site wide configuration
 ####################################
 #
-title_en: Canadian Census Discovery Partnership
-title_fr: Partenariat de découverte du recensement du Canada
+title_en: Canadian Census Data Discovery Partnership
+title_fr: Partenariat de découverte des données du recensement du Canada
 email: #
 description: #A simple and awesome blog theme powered by jekyll.
 url: https://census-recensement.github.io
@@ -42,8 +42,8 @@ kramdown:
 ####################################
 #
 social:
-  name_en: Canadian Census Discovery Partnership
-  name_fr: Partenariat de découverte du recensement du Canada
+  name_en: Canadian Census Data Discovery Partnership
+  name_fr: Partenariat de découverte des données du recensement du Canada
   avatar: #leonids-logo.png
   bio: #"A simple and awesome blog theme powered by jekyll."
   email: census@scholarsportal.info
