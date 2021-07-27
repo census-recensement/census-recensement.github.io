@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Project update - July 2020
+title:  Project Update
 date:  2020-07-01
 lang: en
-ref: july
+ref: july2020
 
 ---
 The Canadian Census Discovery Partnership aims to build a bilingual and openly available discovery platform for census data (print & digital) going back to the earliest Canadian censuses. We’ve recently set up this website which contains more information on the project.
