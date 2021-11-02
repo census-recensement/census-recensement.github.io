@@ -3,11 +3,12 @@
 # Site wide configuration
 ####################################
 #
+title: Canadian Census Data Discovery Partnership / Partenariat de découverte des données du recensement du Canada
 title_en: Canadian Census Data Discovery Partnership
 title_fr: Partenariat de découverte des données du recensement du Canada
 email: #
-description: #A simple and awesome blog theme powered by jekyll.
-url: https://census-recensement.github.io
+description: The CDDP-PCCR is a grant-funded project that aims to reduce barriers in the access and use of historical Canadian census data. | Le CDDP-PCCR est un projet financé par des subventions qui vise à réduire les obstacles à l'accès et à l'utilisation des données historiques du recensement canadien.
+url: https://cddp-pccr.ca
 keywords: ["Canada", "census", "data", "libraries", "recensement"]
 
 #
@@ -28,13 +29,6 @@ collections:
   posts:
     output: true
     permalink: /:path
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
 
 #
 ###################################
