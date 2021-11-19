@@ -1,28 +1,31 @@
-<script type="text/javascript">
-  // based on http://stackoverflow.com/a/10300743/280842
-  function gen_mail_to_link(hs, subject) {
-    var lhs,rhs;
-    var p = hs.split('@');
-    lhs = p[0];
-    rhs = p[1];
-    document.write("<a class=\"social-link-item\" target=\"_blank\" href=\"mailto");
-    document.write(":" + lhs + "@");
-    document.write(rhs + "?subject=" + subject + "\"><i class=\"fa fa-fw fa-envelope\"></i><\/a>");
-  }
-</script>
-<div class="social-links">
+<div class="share-buttons">
+  {% for item in site.data.navigation.languages %}
+  {% if item.language == page.lang %}
+  <h6>{{ item.subscribe }}</h6>
   <ul>
-    {% if author.email %}
+<!--    <li>
+      <a href="{{site.url}}/feed.xml" target="_blank" title="Subscribe to RSS"><i class="fas fa-rss-square"></i><span>RSS</span></a>
+      </li> -->
       <li>
-      <script>gen_mail_to_link('{{ author.email }}', 'Hello from website');</script>
+        <a href="http://listserv.utoronto.ca/cgi-bin/wa?A0=CDDP-PDDR-L" target="_blank" title="Join the listserv"><i class="fas fa-paper-plane"></i><span>{{ item.list }}</span></a>
+        </li>
+      </ul>
+      {% endif %}
+      {% endfor %}
+
+  {% for item in site.data.navigation.languages %}
+  {% if item.language == page.lang %}
+  <h6>{{ item.share }}</h6>
+
+  <ul>
+    <li>
+      <a href="https://twitter.com/intent/tweet?text={{ site.title_en }}&mdash;{{ page.title }}&url={{ site.url }}{{ page.url }}&hashtags=CCDDP,census,canada" target="_blank" title="Share on Twitter"><i class="fab fa-twitter-square"></i><span>Twitter</span></a>
+    </li>
+    <li>
+      <a href="https://reddit.com/submit?url={{ site.url }}{{ page.url }}&title={{ site.title_en }}&mdash;{{ page.title }}" target="_blank" title="Share on Reddit"><i class="fab fa-reddit-square"></i><span>Reddit</span></a>
       </li>
-    {% endif %}
-    {% if author.twitter %}<li><a href="http://twitter.com/{{ author.twitter }}" class="social-link-item" target="_blank"><i class="fa fa-fw fa-twitter"></i></a></li>{% endif %}
-    {% if author.facebook %}<li><a href="http://facebook.com/{{ author.facebook }}" class="social-link-item" target="_blank"><i class="fa fa-fw fa-facebook"></i></a></li>{% endif %}
-    {% if author.linkedin %}<li><a href="http://linkedin.com/in/{{ author.linkedin }}" class="social-link-item" target="_blank"><i class="fa fa-fw fa-linkedin"></i></a></li>{% endif %}
-    {% if author.skype %}<li><a href="skype:{{ author.skype }}" class="social-link-item" target="_blank"><i class="fa fa-fw fa-skype"></i></a></li>{% endif %}
-    {% if author.instagram %}<li><a href="http://instagram.com/{{ author.instagram }}" class="social-link-item" target="_blank"><i class="fa fa-fw fa-instagram"></i></a></li>{% endif %}
-    {% if author.github %}<li><a href="http://github.com/{{ author.github }}" class="social-link-item" target="_blank"><i class="fa fa-fw fa-github"></i></a></li>{% endif %}
-    {% if author.youtube %}<li><a href="https://youtube.com/user/{{ author.youtube }}" class="social-link-item" target="_blank"><i class="fa fa-fw fa-youtube"></i></a></li>{% endif %}
   </ul>
+
+  {% endif %}
+  {% endfor %}
 </div>

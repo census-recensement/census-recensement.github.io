@@ -21,23 +21,23 @@
 
   <!-- Twitter Tags -->
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="{{ title | escape }}">
-  <meta name="twitter:description" content="{{ description | escape }}">
+  <meta name="twitter:title" content="{{ page.title | escape }}">
+  <meta name="twitter:description" content="{{ page.description | escape }}">
   {% if page.image.feature %}
     <meta property="twitter:image" content="{{ site.url }}/img/{{ page.image.feature }}">
   {% else %}
-    <meta property="twitter:image" content="{{ site.url }}/img/leonids-logo.png">
+    <meta property="twitter:image" content="">
   {% endif %}
 
   <!-- Open Graph Tags -->
   <meta property="og:type" content="blog">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-  <meta property="og:title" content="{{ title | escape }}">
-  <meta property="og:description" content="{{ description | escape }}">
+  <meta property="og:title" content="{{ page.title | escape }}">
+  <meta property="og:description" content="{{ page.description | escape }}">
   {% if page.image.feature %}
     <meta property="og:image" content="{{ site.url }}/img/{{ page.image.feature }}">
   {% else %}
-    <meta property="og:image" content="{{ site.url }}/img/leonids-logo.png">
+    <meta property="og:image" content="">
   {% endif %}
   <title>{{ title }}</title>
 

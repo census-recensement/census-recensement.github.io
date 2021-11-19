@@ -3,9 +3,10 @@ layout: page
 title: About the Project
 lang: en
 ref: about
+description: 
 ---
 
-The Canadian Census Data Discovery Partnership will greatly facilitate historical research by reducing the barriers to access and use of Canadian census data. Through three project phases this initiative will gradually build out a network of expertise and infrastructure to ensure that census data is findable and usable to everyone. 
+The Canadian Census Data Discovery Partnership will greatly facilitate historical research by reducing the barriers to access and use of Canadian census data. Through three project phases this initiative will gradually build out a network of expertise and infrastructure to ensure that census data is findable and usable to everyone.
 
 [Vision and Scope]({% link en/about/vision.md %})
 

@@ -5,6 +5,9 @@ languages:
   name: "Canadian Census Data Discovery Partnership"
   home: "home"
   url: /en
+  subscribe: "Subscribe:"
+  share: "Share:"
+  list: "Join our listserv"
   links:
     - title: "About"
       url: /en/about/
@@ -18,6 +21,9 @@ languages:
   name: "Partenariat de découverte des données du recensement du Canada"
   home: "accueil"
   url: /fr
+  subscribe: "S'inscrire à :"
+  share: "Partager :"
+  list: "Rejoignez notre liste de diffusion"
   links:
     - title: "À propos"
       url: /fr/a-propos/

@@ -8,6 +8,8 @@ ref: july2020
 ---
 The Canadian Census Data Discovery Partnership aims to build a bilingual and openly available discovery platform for census data (print & digital) going back to the earliest Canadian censuses. We’ve recently set up this website which contains more information on the project.
 
+<!--more-->
+
 **The team**: The project is being led by the Historical Census of Canada Working Group. This group began as part of the OCUL Data Community in Ontario, but has been growing this year! We have welcomed new members from Alberta, Quebec and Nova Scotia (please see our full membership list at the bottom of this update). Our aim is to have representation from all regions of Canada, from several OCUL communities, and from various stakeholders across Canada.
 
 Phase 1 of our project has been to scope and develop a comprehensive bilingual inventory of Canadian census data - this inventory will become the access backbone of the census discovery platform.

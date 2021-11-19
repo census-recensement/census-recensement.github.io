@@ -26,21 +26,15 @@ layout: default
       {% endif %}
     </h4>
 
+
     {% if post.author %}
-      {% assign author = site.data.authors[post.author] %}
+      {% assign author = post.author %}
     {% else %}
       {% assign author = site.owner %}
     {% endif %}
 
     </header>
 
-    {% if post.excerpt %}
-    <div class="post-description">
-      <p>
-        {{ post.excerpt }}
-      </p>
-    </div>
-    {% endif %}
 
     {% if post.image.feature %}
     <div class="post-image-feature">
