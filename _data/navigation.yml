@@ -7,7 +7,7 @@ languages:
   url: /en
   subscribe: "Subscribe:"
   share: "Share:"
-  list: "Join our listserv"
+  list: "Join our listserv to receive project news and announcements"
   links:
     - title: "About"
       url: /en/about/
@@ -23,7 +23,7 @@ languages:
   url: /fr
   subscribe: "S'inscrire à :"
   share: "Partager :"
-  list: "Rejoignez notre liste de diffusion"
+  list: "Rejoignez notre liste de diffusion pour recevoir les nouvelles et les annonces du projet"
   links:
     - title: "À propos"
       url: /fr/a-propos/
