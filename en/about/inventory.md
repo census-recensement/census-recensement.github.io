@@ -5,7 +5,7 @@ lang: en
 ref: inventory
 ---
 
-The inventory is the backbone of the Canadian Census Discovery Portal. Compiling the inventory is a huge undertaking and a significant aspect of this project. We are always seeking participants interested in contributing to the inventory - please [get in touch](https://census-recensement.github.io/en/contact/) if you would like to be involved.
+The inventory is the backbone of the Canadian Census Discovery Portal. Compiling the inventory is a huge undertaking and a significant aspect of this project. We are always seeking participants interested in contributing to the inventory - please [get in touch]({% link en/contact.md %}) if you would like to be involved.
 
 ### Inventory database
 
