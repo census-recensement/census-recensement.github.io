@@ -24,6 +24,8 @@ During the fall of 2021, [CCDDP project consultation](https://dli-training.githu
 We look forward to sharing more announcements and updates in the coming months.
 If you wish to stay informed about the CCDDP project and related Census data discovery updates, please join our new project [email listserv](http://listserv.utoronto.ca/cgi-bin/wa?A0=CDDP-PDDR-L).
 
+<!--
+
 ## First Quarterly Update
 
 The Canadian Census Data Discovery Partnership (CCDDP) is proud to share its first research project update. From September to now, four working groups and committees were constituted to work on this project. The following provides a general overview of the work of each of these groups:
@@ -60,3 +62,5 @@ The Canadian Census Data Discovery Partnership (CCDDP) is proud to share its fir
 Created announcement of Library and Archives Canada signing on as a project partner.
 - Working with the User Needs Working Group on stakeholder strategy and consultation events.  
 - Created the [CDDP-PDDR-L Listserv](https://listserv.utoronto.ca/cgi-bin/wa?A0=CDDP-PDDR-L) for interested census community members to stay abreast of project updates and share information.
+
+-->
