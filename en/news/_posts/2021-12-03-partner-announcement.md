@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Partner Announcement
-date:  2021-12-03
+date: 2021-12-03
 lang: en
 ref: dec2021
 description: The Canadian Census Data Discovery Partnership officially announces the commitment of Library and Archives Canada as a Project Partner.

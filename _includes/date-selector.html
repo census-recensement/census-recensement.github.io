@@ -2,16 +2,16 @@
 
 <span>
   {% for item in site.data.navigation.languages %}
-    {% if item.language == page.lang %}
-    {% if page.lang == "fr" %}
+    {% if item.language == post.lang %}
+    {% if post.lang == "fr" %}
   {% assign months = "Janvier|Février|Mars|Avril|Mai|Juin|Juillet|Août|Septembre|Octobre|Novembre|Décembre" | split: "|" %}
-  {% assign m = page.date | date: "%-m" | minus: 1 %}
-  {% assign day = page.date | date: "%d" %}
+  {% assign m = post.date | date: "%-m" | minus: 1 %}
+  {% assign day = post.date | date: "%d" %}
   {% assign month = months[m] %}
-  {% assign year = page.date | date: "%Y" %}
-  {{ month | upcase }} {{ year }}
+  {% assign year = post.date | date: "%Y" %}
+  {{ day }} {{ month | upcase }}
   {% else %}
-  {{ page.date | date: "%B %Y" | upcase }}
+  {{ post.date | date: "%B %Y" | upcase }}
   {% endif %}
   {% endif %}
   {% endfor %}

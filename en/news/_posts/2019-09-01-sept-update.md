@@ -6,9 +6,7 @@ lang: en
 ref: sept2019
 ---
 
-As some of you may be aware, OCUL’s Historical Census Working Group (part of the OCUL Data Community) is working on scoping a comprehensive bilingual inventory of Canadian census data. Our dream is to eventually build a bilingual and openly available discovery platform for census data & statistical tables (print & digital) going back to the earliest Canadian censuses.
-
-<!--more-->
+As some of you may be aware, OCUL’s Historical Census Working Group (part of the OCUL Data Community) is working on scoping a comprehensive bilingual inventory of Canadian census data. Our dream is to eventually build a bilingual and openly available discovery platform for census data & statistical tables (print & digital) going back to the earliest Canadian censuses.<!--more-->
 
 This is a big goal, and it certainly isn’t exclusively an “OCUL” one. Yes, this project started because a small group of data librarians in Ontario got together and started talking, but we need participation from across the country if we are going to realize our goal and have it meet everyone’s needs.
 
