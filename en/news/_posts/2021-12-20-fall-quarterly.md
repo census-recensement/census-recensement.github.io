@@ -1,20 +1,21 @@
 ---
 layout: post
-title:  CCDDP Update - Building on the past and forging new partnerships
-date: 2021-12-15
+title:  CCDDP Fall 2021 Quarterly Update
+date: 2021-12-20
 lang: en
 ref: dec2021a
 description: The Canadian Census Data Discovery Partnership (CCDDP) shares its first project update, December 2021.
 ---
 The Canadian Census Data Discovery Partnership (CCDDP), a SSHRC funded (2021-2023) pan-Canadian research project to improve Census data discovery and open access for historical data, is proud to share its first project update with the research community and public at-large.<!--more-->
 
+### Building on the past and forging new partnerships
 The formation of the CCDDP’s inaugural Steering Committee, chaired by Leanne Trimble, University of Toronto Libraries, represents the launch of the CCDDP’s core mandate and responsibilities. The Committee meets monthly to guide the project’s direction and oversee progress towards the project’s goals.
 
 The formation of three working groups (the Census Inventory Working Group, the User Needs Working Group, and the Project Communications Working Group) will support the CCDDP by focusing research efforts and building upon the project's goal to develop a Canadian census data discovery portal.
 
 In addition, new student research assistants have been hired at Concordia University, the University of Toronto, and the University of Ottawa. Thanks to all those that have joined the team!
 
-### Forging New Partnerships
+#### Forging New Partnerships
 The CCDDP is pleased to announce that Library and Archives Canada (LAC) has joined as a project partner. We invite you to read the [partnership announcement](% link en/news/_posts/2021-12-03-partner-announcement.md %).
 
 Together, the CCDDP User Needs Working Group and its collaborators are delighted to announce the planning of a Census data discovery workshop entitled “Disseminating Census Data: Learning From Experience”, which will be held virtually in February 2022. This CCDDP workshop will be structured as a two-part panel session with topics presented around sustainability of census data projects, census data portal design, and microdata privacy and access, for project members and invited collaborators. A paper, synthesizing lessons learned from the workshop, will be produced and made public in 2022-2023.  
@@ -24,9 +25,7 @@ During the fall of 2021, CCDDP project consultation updates were presented at th
 We look forward to sharing more announcements and updates in the coming months.
 If you wish to stay informed about the CCDDP project and related Census data discovery updates, please join our new project [email listserv](http://listserv.utoronto.ca/cgi-bin/wa?A0=CDDP-PDDR-L).
 
-<!--
-
-## First Quarterly Update
+## Committee and Working Group Updates
 
 The Canadian Census Data Discovery Partnership (CCDDP) is proud to share its first research project update. From September to now, four working groups and committees were constituted to work on this project. The following provides a general overview of the work of each of these groups:
 
@@ -62,5 +61,3 @@ The Canadian Census Data Discovery Partnership (CCDDP) is proud to share its fir
 Created announcement of Library and Archives Canada signing on as a project partner.
 - Working with the User Needs Working Group on stakeholder strategy and consultation events.  
 - Created the [CDDP-PDDR-L Listserv](https://listserv.utoronto.ca/cgi-bin/wa?A0=CDDP-PDDR-L) for interested census community members to stay abreast of project updates and share information.
-
--->
