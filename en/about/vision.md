@@ -5,7 +5,7 @@ lang: en
 ref: vision
 ---
 
-### Vision
+## Vision
 
 The Canadian Census Discovery Portal will be an openly available online discovery platform. The aim is to include all born-print and born-digital statistical tables, datasets, and mapping products, as well as all relevant documentation, going back to the earliest known pre-Confederation censuses. The portal will be completely bilingual.
 
@@ -14,7 +14,7 @@ Through the portal, users will access our inventory of individual census items (
 Currently (summer 2020) the project team is drafting a detailed vision document for the project, which will be posted here soon.
 
 
-### Scope of the Canadian Census Discovery Portal
+## Scope of the Canadian Census Discovery Portal
 
 Some limitations on the scope of the project:
 

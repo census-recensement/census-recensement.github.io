@@ -11,6 +11,8 @@ languages:
   links:
     - title: "About"
       url: /en/about/
+    - title: "Committees"
+      url: /en/committees
     - title: "Contact"
       url: /en/contact/
     - title: "News"
@@ -27,9 +29,9 @@ languages:
   links:
     - title: "À propos"
       url: /fr/a-propos/
+    - title: "Comités"
+      url: /fr/comites
     - title: "Contact"
       url: /fr/contact/
     - title: "L'actualité"
       url: /fr/l-actualite/
-  #  - title: "en"
-  #    url: /en/

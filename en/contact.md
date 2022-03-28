@@ -7,13 +7,13 @@ ref: contacts
 
 We welcome your questions, advice, and participation! Get in touch with us at [census@scholarsportal.info](mailto:{{ site.social.email }})
 
-### Principal Investigator:
+## Principal Investigator:
 
 **Leanne Trimble**  
 *University of Toronto*   
 *Data and Statistics Librarian*
 
-### Project Leaders:
+## Project Leaders:
 
 **Susan Mowers**  
 *University of Ottawa*   
@@ -55,13 +55,13 @@ We welcome your questions, advice, and participation! Get in touch with us at [c
 *Library and Archives Canada*  
 *Manager, Reference Services, Public Services Branch*
 
-### Coordinator:
+## Coordinator:
 
 **Julien Doris**  
 *University of Ottawa*  
 *PhD candidate in Public Administration*
 
-### Our Partners:
+## Our Partners:
 
 **Statistics Canada**
 
