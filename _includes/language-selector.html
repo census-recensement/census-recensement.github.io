@@ -1,6 +1,6 @@
 
 
-<div class=lang>
+<div class="lang">
 
 {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
 {% for post in posts %}
@@ -15,4 +15,5 @@
     <a href="{{ page.url }}" class="{{ page.lang }}"> &nbsp; {{ page.lang }} &nbsp;</a>
 
 {% endfor %}
+
 </div>
