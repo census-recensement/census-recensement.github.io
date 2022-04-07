@@ -9,12 +9,12 @@ The User Needs Working Group is responsible for working with census data stakeho
 
 ### Events
 
-- [Disseminating census data: Learning from experience]({% link en/committees/2022-02-16-disseminating-census-data-event.md %})
+- [Disseminating Census Data: Learning From Experience]({% link en/committees/2022-02-16-disseminating-census-data-event.md %})
 
 ### Deliverables
 
-- CCDDP Consultation Report \#1 -- Findings from structured questions concerning Canadian census data use and discovery, and future directions
-- CCDDP Consultation Report \#2 -- Disseminating census data: Learning from experience
+- CCDDP Consultation Report \#1 -- Findings From Structured Questions Concerning Canadian Census Data Use and Discovery, and Future Directions
+- CCDDP Consultation Report \#2 -- Disseminating Census Data: Learning From Experience
 
 ### Members
 
