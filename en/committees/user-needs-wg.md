@@ -9,7 +9,7 @@ The User Needs Working Group is responsible for working with census data stakeho
 
 ### Events
 
-- [Disseminating Census Data: Learning From Experience]({% link en/committees/2022-02-16-disseminating-census-data-event.md %})
+- February 16, 2022 -- [Disseminating Census Data: Learning From Experience]({% link en/committees/2022-02-16-disseminating-census-data-event.md %})
 
 ### Deliverables
 
