@@ -2,6 +2,6 @@
 layout: page
 title: Steering Committee
 lang: en
-ref: steering
+ref: steering-wg
 description:
 ---

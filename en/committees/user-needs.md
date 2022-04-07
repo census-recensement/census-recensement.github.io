@@ -2,7 +2,7 @@
 layout: page
 title: User Needs Working Group
 lang: en
-ref: users
+ref: user-needs-wg
 description:
 ---
 The User Needs Working Group is responsible for working with census data stakeholders to carry out user needs consultations around census data discovery, and subsequently, discovery portal design and development, for the CCDDP project.

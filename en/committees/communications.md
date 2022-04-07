@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the Project
-lang: fr
-ref: communications
+lang: en
+ref: communications-wg
 description:
 ---
