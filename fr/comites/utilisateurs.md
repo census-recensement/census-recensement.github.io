@@ -12,7 +12,7 @@ Le groupe de travail sur les besoins des utilisateurs est chargé de collaborer 
 - Susan Mowers, Université d’Ottawa (présidente du comité)
 - Alex Guindon, Université Concordia
 - Alexandra Clemence, Bibliothèque et Archives Canada
-- Glen Hohlmann, Statistics Canada
+- Glen Hohlmann, Statistique Canada
 - Julie Marcoux, Dalhousie University
 - Kaitlin Newson, Scholars Portal
 - Katie Cuyler, University of Alberta
