@@ -11,7 +11,7 @@ The Canadian Census Data Discovery Partnership (CCDDP) is pleased to share its s
 
 The event brought together international leaders in census dissemination to share best practices on challenges associated with the dissemination of contemporary and historical census data to academic researchers and the public. The lessons learned at this event will help the partnership in developing its platform and strategy for the project, and toward an improved vision of Census data discovery and dissemination in Canada moving forward, and also to create an international community of practice regarding these matters.
 
-More information on the event, participants, presentations, and a synthesis document can be found on the [User Needs Working Group page]({% link en/committees/user-needs-wg.md %}).
+More information on the event, participants, presentations, and a synthesis document can be found on the [User Needs Working Group page]({% link en/committees/user-needs.md %}).
 
 ## Committee and Working Group Updates
 
