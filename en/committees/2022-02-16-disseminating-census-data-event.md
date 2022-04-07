@@ -4,6 +4,9 @@ title: Disseminating Census Data - Learning from Experience
 lang: en
 ref: disseminating-census-data
 ---
+
+The workshop’s focus is on challenges associated with the dissemination of contemporary and historical census data to academic researchers and the public. By bringing together experts from Canada, the United States, the United Kingdom, and Ireland, we seek to understand how creators and stewards of Census data, inside and outside of government, approach dilemmas associated with its dissemination to stakeholders, and also to create an international community of practice regarding these matters.
+
 ### Session 1 - Challenges and Innovations with Disseminating Census Data
 
 **[IPUMS NHGIS: Disseminating US Census Geographic Data](https://drive.google.com/file/d/1SvavPWNOIn8hdLBSYlV_drfriKQ1QdbV/view?usp=sharing)**   
