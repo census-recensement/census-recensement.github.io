@@ -9,16 +9,15 @@ Le groupe de travail sur les besoins des utilisateurs est chargé de collaborer 
 
 ### Membres
 
-- Susan Mowers (présidente du comité)
-- Alex Guindon
-- Alexandra Clemence
-- Caroline Hyslop
-- Glen Hohlmann
-- Julie Marcoux
-- Kaitlin Newson
-- Katie Cuyler
-- Leanne Trimble
-- Sandra Sawchuk
-- Shannon Leitch
-- Tracey Lauriault
-- Zachary Taylor
+- Susan Mowers, Université d’Ottawa (présidente du comité)
+- Alex Guindon, Université Concordia
+- Alexandra Clemence, Bibliothèque et Archives Canada
+- Glen Hohlmann, Statistics Canada
+- Julie Marcoux, Dalhousie University
+- Kaitlin Newson, Scholars Portal
+- Katie Cuyler, University of Alberta
+- Leanne Trimble, University of Toronto
+- Sandra Sawchuk, Mount Saint Vincent University
+- Shannon Leitch, Université d’Ottawa
+- Tracey Lauriault, Carleton University
+- Zack Taylor, Western University

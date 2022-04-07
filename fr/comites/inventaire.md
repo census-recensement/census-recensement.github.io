@@ -9,15 +9,15 @@ Le groupe de travail sur l'inventaire du recensement est responsable de l'achèv
 
 ### Membres
 
-- Leanne Trimble (présidente du comité)
-- Alex Guindon
-- Alina Ruiz
-- Amber Leahey
-- Caroline Hyslop
-- Graeme Campbell
-- Julia Barkhouse
-- Julien Doris
-- Nick Field
-- Sandra Sawchuk
-- Susan Mowers
-- Tracey Lauriault
+- Leanne Trimble, University of Toronto (présidente du comité)
+- Alex Guindon, Université Concordia
+- Alina Ruiz, Mount Saint Vincent University
+- Amber Leahey, Scholars Portal
+- Caroline Michaud, Université McGill (assistant d'étudiante)
+- Graeme Campbell, Queen’s University
+- Julia Barkhouse, Bibliothèque et Archives Canada
+- Julien Doris, Université d’Ottawa
+- Nick Field, University of Toronto
+- Sandra Sawchuk, Mount Saint Vincent University
+- Susan Mowers, Université d’Ottawa (ex officio)
+- Tracey Lauriault, Carleton University

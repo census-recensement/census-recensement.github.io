@@ -18,16 +18,15 @@ The User Needs Working Group is responsible for working with census data stakeho
 
 ### Members
 
-- Susan Mowers (chair)
-- Alex Guindon
-- Alexandra Clemence
-- Caroline Hyslop
-- Glen Hohlmann
-- Julie Marcoux
-- Kaitlin Newson
-- Katie Cuyler
-- Leanne Trimble
-- Sandra Sawchuk
-- Shannon Leitch
-- Tracey Lauriault
-- Zachary Taylor
+- Susan Mowers, University of Ottawa (chair)
+- Alex Guindon, Concordia University
+- Alexandra Clemence, Library and Archives Canada
+- Glen Hohlmann, Statistics Canada
+- Julie Marcoux, Dalhousie University
+- Kaitlin Newson, Scholars Portal
+- Katie Cuyler, University of Alberta
+- Leanne Trimble, University of Toronto
+- Sandra Sawchuk, Mount Saint Vincent University
+- Shannon Leitch, University of Ottawa
+- Tracey Lauriault, Carleton University
+- Zack Taylor, Western University

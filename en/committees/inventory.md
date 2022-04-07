@@ -9,15 +9,15 @@ The Census Inventory Working Group is responsible for the completion of the cens
 
 ### Members
 
-- Leanne Trimble (chair)
-- Alex Guindon
-- Alina Ruiz
-- Amber Leahey
-- Caroline Hyslop
-- Graeme Campbell
-- Julia Barkhouse
-- Julien Doris
-- Nick Field
-- Sandra Sawchuk
-- Susan Mowers
-- Tracey Lauriault
+- Leanne Trimble, University of Toronto (chair)
+- Alex Guindon, Concordia University
+- Alina Ruiz, Mount Saint Vincent University
+- Amber Leahey, Scholars Portal
+- Caroline Michaud, McGill University (grad student assistant at Concordia)
+- Graeme Campbell, Queen’s University
+- Julia Barkhouse, Library and Archives Canada
+- Julien Doris, University of Ottawa
+- Nick Field, University of Toronto
+- Sandra Sawchuk, Mount Saint Vincent University
+- Susan Mowers, University of Ottawa (ex officio)
+- Tracey Lauriault, Carleton University
