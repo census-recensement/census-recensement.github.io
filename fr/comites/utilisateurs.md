@@ -7,6 +7,12 @@ description:
 ---
 Le groupe de travail sur les besoins des utilisateurs est chargé de collaborer avec les parties prenantes aux données de recensement afin de mener des consultations sur les besoins des utilisateurs en matière de découverte des données de recensement, puis de conception et de développement du portail de découverte, pour le projet PDDRC.
 
+### Événements
+
+- 16 février 2022 -- Diffuser les données du recensement : l'apprentissage par l’expérience
+
+### Documents
+
 ### Membres
 
 - Susan Mowers, Université d’Ottawa (présidente du comité)
