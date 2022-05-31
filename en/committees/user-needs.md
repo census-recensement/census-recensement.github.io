@@ -9,6 +9,7 @@ The User Needs Working Group is responsible for working with census data stakeho
 
 ### Events
 
+- November 24, 2021 -- [Historical Census Project: Developing a Canadian Census data discovery portal (DLI presentation and consultation)](https://dli-training.github.io/2021/en/1-historical/)  
 - February 16, 2022 -- [Disseminating Census Data: Learning From Experience]({% link en/committees/user-needs/disseminating-census-data-event.md %})
 
 ### Deliverables
