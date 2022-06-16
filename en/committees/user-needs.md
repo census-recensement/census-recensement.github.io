@@ -14,8 +14,8 @@ The User Needs Working Group is responsible for working with census data stakeho
 
 ### Deliverables
 
-- [CCDDP Consultation Report \#1 – Findings from Structured Questions Concerning Canadian Census Data Use and Discovery and Issues for Future Exploration](http://hdl.handle.net/10393/43644)
-- CCDDP Consultation Report \#2 -- Disseminating Census Data: Learning From Experience
+- CCDDP Consultation Report \#1 – Findings from Structured Questions Concerning Canadian Census Data Use and Discovery and Issues for Future Exploration
+- [CCDDP Consultation Report \#2 -- Disseminating Census Data: Learning From Experience](http://hdl.handle.net/10393/43644)
 
 ### Members
 
