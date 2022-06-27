@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  CCDDP Winter 2022 Quarterly Update
-date: 2022-06-30
+date: 2022-06-27
 lang: en
 ref: mar2022
 description: The Canadian Census Data Discovery Partnership (CCDDP) shares its quarterly project update, June 2022.
