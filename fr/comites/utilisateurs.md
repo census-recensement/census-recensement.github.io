@@ -9,10 +9,12 @@ Le groupe de travail sur les besoins des utilisateurs est chargé de collaborer 
 
 ### Événements
 
-- 24 novembre 2021 – [Projet de recensement historique : Développement d'un portail de découverte des données du Recensement du Canada (Présentation et consultation de l’IDD)](https://dli-training.github.io/2021/fr/1-historical/) 
+- 24 novembre 2021 – [Projet de recensement historique : Développement d'un portail de découverte des données du Recensement du Canada (Présentation et consultation de l’IDD)](https://dli-training.github.io/2021/fr/1-historical/)
 - 16 février 2022 -- Diffuser les données du recensement : l'apprentissage par l’expérience
 
 ### Documents
+
+- [Rapport de consultation du PDDRC \#2 -- Diffuser les données du recensement : L’apprentissage par l’expérience]({% link fr/comites/utilisateurs/cddp-pddr-ca_rpt_consultation_no2-F.pdf %})
 
 ### Membres
 
