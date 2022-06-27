@@ -49,7 +49,7 @@ Beginning in 2021, four working groups and committees were formed to initiate CC
 **Updates:**
 
 - *Disseminating Census Data: Learning from Experience* event hosted with the University of Western Ontario's Network on Economic and Social Trends.
-- Release of consultation report, [Findings from structured questions concerning Canadian census data use and discovery, and future directions](), from the stakeholder consultation conducted at DLI National Training Week.
+- Release of consultation report, "Findings from structured questions concerning Canadian census data use and discovery, and future directions", from the stakeholder consultation conducted at DLI National Training Week.
 - Scoping review of discovery features and coverage of Canadian census portals is underway. This is being done through coordinating collaborative, group-sourced, sprints, assessing the data discovery functionalities of existing census portals.
 - Collaborating with the Inventory Working Group to conduct a stakeholder consultation on integrated searching across censuses (date TBD) and further topics.
 
