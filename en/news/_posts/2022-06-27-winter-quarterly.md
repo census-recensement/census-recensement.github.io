@@ -4,7 +4,7 @@ title:  CCDDP Winter 2022 Quarterly Update
 date: 2022-06-30
 lang: en
 ref: mar2022
-description: The Canadian Census Data Discovery Partnership (CCDDP) shares its quarterly project update, March 2022.
+description: The Canadian Census Data Discovery Partnership (CCDDP) shares its quarterly project update, June 2022.
 ---
 
 The Canadian Census Data Discovery Partnership (CCDDP) is pleased to share its second research project update. In February 2022, the CCDDP User Needs Working Group partnered with the Western University Network on Economic and Social Trends (NEST) to host a consultative workshop event <!--more-->[Disseminating Census Data: Learning from Experience](https://observatory.uwo.ca/workshops/index.html).
@@ -49,7 +49,7 @@ Beginning in 2021, four working groups and committees were formed to initiate CC
 **Updates:**
 
 - *Disseminating Census Data: Learning from Experience* event hosted with the University of Western Ontario's Network on Economic and Social Trends.
-- Release of consultation report, [Findings from structured questions concerning Canadian census data use and discovery, and future directions](https://docs.google.com/viewer?url=https://github.com/census-recensement/census-recensement.github.io/raw/master/_docs/2022-03-17-findings-from-structured-questions.pdf), from the stakeholder consultation conducted at DLI National Training Week.
+- Release of consultation report, [Findings from structured questions concerning Canadian census data use and discovery, and future directions](), from the stakeholder consultation conducted at DLI National Training Week.
 - Scoping review of discovery features and coverage of Canadian census portals is underway. This is being done through coordinating collaborative, group-sourced, sprints, assessing the data discovery functionalities of existing census portals.
 - Collaborating with the Inventory Working Group to conduct a stakeholder consultation on integrated searching across censuses (date TBD) and further topics.
 
