@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  CCDDP Winter 2022 Quarterly Update
+title:  CCDDP Winter 2022 Update
 date: 2022-06-27
 lang: en
 ref: mar2022
-description: The Canadian Census Data Discovery Partnership (CCDDP) shares its quarterly project update, June 2022.
+description: The Canadian Census Data Discovery Partnership (CCDDP) shares its project update, June 2022.
 ---
 
 The Canadian Census Data Discovery Partnership (CCDDP) is pleased to share its second research project update. In February 2022, the CCDDP User Needs Working Group partnered with the Western University Network on Economic and Social Trends (NEST) to host a consultative workshop event <!--more-->[Disseminating Census Data: Learning from Experience](https://observatory.uwo.ca/workshops/index.html).
