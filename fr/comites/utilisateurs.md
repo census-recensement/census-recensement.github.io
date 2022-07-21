@@ -14,7 +14,7 @@ Le groupe de travail sur les besoins des utilisateurs est chargé de collaborer 
 
 ### Documents
 
-- [Rapport de consultation du PDDRC \#2 -- Diffuser les données du recensement : L’apprentissage par l’expérience]({% link fr/comites/utilisateurs/cddp-pddr-ca_rpt_consultation_no2-F.pdf %})
+- [Rapport de consultation du PDDRC \#2 -- Diffuser les données du recensement : L’apprentissage par l’expérience](https://ruor.uottawa.ca/handle/10393/43768)
 
 ### Membres
 
