@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Portal Infrastructure Working Group
+title: Groupe de travail sur l'infrastructure du portail
 lang: fr
 ref: portal-wg
 description:
