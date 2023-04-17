@@ -5,7 +5,7 @@ lang: fr
 ref: portal-wg
 description:
 ---
-Le groupe de travail sur l'infrastructure du portail est responsable du développement de la conception préliminaire du portail de découverte du recensement et de la validation du concept, ainsi que de la compilation des recommandations en matière d'infrastructure pertinentes pour le projet (par exemple, en ce qui concerne les exigences d'un futur portail de découverte de la production, les considérations relatives à l'accès aux données du recensement et à leur préservation à long terme). Le groupe de travail rend compte au comité directeur du PDDRC.
+Le groupe de travail sur l’infrastructure du portail est responsable du développement de la conception préliminaire du portail de découverte du recensement et de la preuve de concept. Il compile également les recommandations pertinentes en matière d’infrastructure (par exemple, en ce qui concerne les exigences d’un futur portail de découverte en mode production ainsi que les considérations relatives à l’accès aux données du recensement et à leur préservation à long terme). Le groupe de travail rend compte au comité directeur du PDDRC.
 
 ### Membres
 
