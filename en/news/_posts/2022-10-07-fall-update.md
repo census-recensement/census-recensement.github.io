@@ -94,6 +94,8 @@ their progress.
 
 ## Research Connections
 
+### Unified Infrastructure for Canadian Census Research (UNI·CEN)
+
 The CCDDP is pleased to showcase the work of Professor Zack Taylor
 (CCDDP Partner, Western University) and the [UNI·CEN, the Unified
 Infrastructure for Canadian Census Research](https://observatory.uwo.ca/unicen/index.html) initiative.

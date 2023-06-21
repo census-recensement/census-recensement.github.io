@@ -17,8 +17,10 @@ languages:
       url: /en/contact/
     - title: "News"
       url: /en/news/
-  #  - title: "Research "
-  #    url: /en/research/
+    - title: "Research"
+      url: /en/research/
+    - title: ""
+      url:
   #  - title: "fr"
   #    url: /fr/
 - language: "fr"
@@ -37,5 +39,7 @@ languages:
       url: /fr/contact/
     - title: "L'actualité"
       url: /fr/l-actualite/
-  #  - title: "Recherche "
-  #    url: /fr/recherche
+    - title: "Recherche"
+      url: /fr/recherche
+    - title: ""
+      url:

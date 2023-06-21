@@ -7,3 +7,4 @@ _drafts
 Gemfile.lock
 .jekyll-cache
 /vendor
+.DS_Store
