@@ -9,9 +9,7 @@ ref: vision
 
 The Canadian Census Discovery Portal will be an openly available online discovery platform. The aim is to include all born-print and born-digital statistical tables, datasets, and mapping products, as well as all relevant documentation, going back to the earliest known pre-Confederation censuses. The portal will be completely bilingual.
 
-Through the portal, users will access our inventory of individual census items (e.g. identify specific tables such as: “Birthplace by Census District”, 1901 census, volume 1, table 14) and download digital copies of the materials. They will be able to search by subjects, geographies and dates, allowing them to easily identify a set of relevant materials. They will also find helpful notes on accessibility and readability of contents in all available formats – ultimately, the project hopes to improve accessibility and usability (see Phase 3 [insert link to Phase 3 page]).
-
-Currently (summer 2020) the project team is drafting a detailed vision document for the project, which will be posted here soon.
+Through the portal, users will access our inventory of individual census items (e.g. identify specific tables such as: “Birthplace by Census District”, 1901 census, volume 1, table 14) and download digital copies of the materials. They will be able to search by subjects, geographies and dates, allowing them to easily identify a set of relevant materials. They will also find helpful notes on accessibility and readability of contents in all available formats – ultimately, the project hopes to improve accessibility and usability [(see Phase 3)]({% link en/about/access.md %}).
 
 
 ## Scope of the Canadian Census Discovery Portal
